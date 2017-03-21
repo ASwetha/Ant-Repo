@@ -3,7 +3,7 @@
   <groupId>AntToMavenProject</groupId>
   <artifactId>AntToMavenProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+<!-- -->  
    <repositories>
       <repository>
          <id>cc2git</id>
